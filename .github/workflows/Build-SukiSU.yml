@@ -6,9 +6,9 @@ on:
         type: choice
         description: "分支"
         required: true
-        default: sm8650
+        default: sm8850
         options:
-          - sm8650
+          - sm8850
       FEIL:
         type: choice
         description: "配置文件"
